@@ -1,4 +1,4 @@
-import Card from "../UI/Button/Card";
+import Card from "../UI/Card";
 import MealItem from "./MealItem";
 import classes from "./AvailableMeals.module.css";
 const DUMMY_MEALS = [
